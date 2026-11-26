@@ -1,0 +1,178 @@
+[[LUSOL]]
+arch = "aarch64"
+git-tree-sha1 = "a33a5902a06578e06efacd2f0ba92960491aa477"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LUSOL.download]]
+    sha256 = "75c7eed2744a88e749740227b5fc5894e8141a6e1d674ddbaf12749f5a50e94e"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "aarch64"
+git-tree-sha1 = "4d91ee22554a76f8f692ea1fc9bca9dda330f3ef"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "85e28fe0c0216ccb2498dd5ef1062415c967c514cad6749a936692ce45c4eb34"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "aarch64"
+git-tree-sha1 = "65bed53301e7c66757fc49ec8b7400146e2969c8"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "2b839bd0b97eee7762d503c7a42617741f87ee9df343148b75aae6acc7b86d64"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.aarch64-linux-musl-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "aarch64"
+git-tree-sha1 = "af659325fd618353120081f7ee6e8b60a6e64492"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[LUSOL.download]]
+    sha256 = "630c678f111b39c2813218dba65c2289092c9d899bbb25bfcb1f6c3ccc123e63"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "86ac8a437246de3890169119539ee20f767def5c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "ce47c38dfc0dfd87b77d538611fbdecd3455d945d8c301838f359a6b3d806e4a"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7c69d6e0cdbbc9905a4fe335fe390f887fcc6fbb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "1204d41a72a76a146573e0c311f1b4e177367b59318cf25ede40e62c023e6b2f"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2247148a22df02a7e86ad4827c3edb553d09a2aa"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "ea2f9ab70790cbdad416db917986e5c719f712108b43ecd9c15a976586158434"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "de0e1e2bced73614d3b63905e1f915bd52ad392e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "7206dd37cbe9fee921d7752615ad9c6427f7e566d08f3e8fbeacbca0a645b1e3"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "i686"
+git-tree-sha1 = "5421c18fc66a83446099eb58352924b2666cbc88"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "29aa70a76eb5819b52a75595563bad5a7d1e348d0a70de415d1b4313aa2089cc"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.i686-linux-gnu-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "i686"
+git-tree-sha1 = "f82a5af8bf19d53a03d40494a80b3bc9fcf83491"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "571c673137d312ac2a28931a8ff8bd053c8b5e1a15e6b55690e1d606eafe2219"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.i686-linux-musl-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "i686"
+git-tree-sha1 = "eaf3d958e3c2fcf21b2cb1238c10a60d647c86c0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[LUSOL.download]]
+    sha256 = "b7de4ab559937d67b2a0bac53af4698fbab7f96cd222a94032a6d34dfd382eb0"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.i686-w64-mingw32-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "powerpc64le"
+git-tree-sha1 = "4b486565bd2b59df580af8367a0d28bfdacfec95"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "7fb9b901b68a7c7fe86faa623512158477b9b8ebcee298b65912651eb33e408d"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "riscv64"
+git-tree-sha1 = "36c3c3f33fd392ccd076980c13844c8f03c33591"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "fa0216349b0fc570450ac6c1006100a1dfdbb277147da7dc565a1c8ac2cc4f57"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "x86_64"
+git-tree-sha1 = "397169c8ba2c31881a4b57f12058d8edae9acbcb"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LUSOL.download]]
+    sha256 = "6c0b74250d95a394f52e56b4c757b834f8ecd2bb33227a215aef6bd7ce3f86ae"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "x86_64"
+git-tree-sha1 = "0a521740ebeea21ee7c2eb16b96ce6b1db02db27"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "f707de93d2a4037ae1df93e06d418d602fc34b30ce77892baad3860898f5b3ce"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "x86_64"
+git-tree-sha1 = "aac756c943db983b82d12a331d361977ebbb2443"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LUSOL.download]]
+    sha256 = "9d66a5c324bd29b3f9afdd095af4fa5f4d0a6b4f6856192645fc088a2a2587f0"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.x86_64-linux-musl-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "x86_64"
+git-tree-sha1 = "6ae492775f96b98c4403263e7edeb1d03bc24cfe"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[LUSOL.download]]
+    sha256 = "3dfc0680bc2a90d8889b62ff2ebf6d5a383062a6f62321db054287ad8789889d"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[LUSOL]]
+arch = "x86_64"
+git-tree-sha1 = "b2cbad66dc38eebadd1b2ebce251d61d8c99ad72"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[LUSOL.download]]
+    sha256 = "24dba4118a86d7dbb50d4f3d30297463f999cc5af1e176bb19a5bef7d2deb786"
+    url = "https://github.com/JuliaBinaryWrappers/LUSOL_jll.jl/releases/download/LUSOL-v1.0.1+0/LUSOL.v1.0.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
